@@ -1,0 +1,6 @@
+{
+  "name": "Car Cost Calculator",
+  "description": "An interactive car comparison and cost analyzer per kilometer based on fuel, interest, depreciation, and ongoing ownership expenses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
